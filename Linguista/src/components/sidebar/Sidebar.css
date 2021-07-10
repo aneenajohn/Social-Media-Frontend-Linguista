@@ -1,0 +1,9 @@
+.sidebar{
+    flex:3.5;
+    height:calc(100vh-50px);
+    font-size: 1.5rem;
+}
+
+.sidebarWrapper{
+    padding:2rem;
+}
